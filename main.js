@@ -12,11 +12,19 @@ const perguntas = [ //abre uma lista de perguntas
     enunciado: "Qual dessas opções você esolheria para uma sexta a noite? ",
         alternativas: [
         { //alternativa 1
-            texto: "Sei que sei que lá",
+            texto: "Sair para um bar",
             afirmacao: "Afirmação"
         },
         { //alternativa 2
-            texto: "Ah que não sei que sei que",
+            texto: "Ficar em casa vendo série",
+            afirmacao: "Afirmação",
+        },
+        { //alternativa 3
+            texto: "Sair para um restaurante, e degustar um bom vinho",
+            afirmacao: "Afirmação",
+        },
+        { //alternativa 4
+            texto: "Ouvindo música e desenhando",
             afirmacao: "Afirmação",
         },
     ]
