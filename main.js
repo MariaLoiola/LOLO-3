@@ -9,7 +9,7 @@ const textoResultado = document.querySelector(".texto-resultado"); //constante t
 
 const perguntas = [ //abre uma lista de perguntas
     { //abre objeto de pergunta
-    enunciado: "Qual dessas opções você esolheria para uma sexta a noite? ",
+    enunciado: "Qual dessas opções você escolheria para uma sexta a noite? ",
         alternativas: [
         { //alternativa 1
             texto: "Sair para um bar",
@@ -30,14 +30,14 @@ const perguntas = [ //abre uma lista de perguntas
     ]
     }, //fecha objeto de pergunta
     { //abre objeto de pergunta
-        enunciado: "Pergunta 2",
+        enunciado: "Qual dessas cidades você escolhe?",
         alternativas: [
         {
-            texto: "Que não sei que sei que lá",
+            texto: "Nova orleans",
             afirmacao: "Afirmação"
         },
         {
-            texto: "Sei lá sei que",
+            texto: "Mystic falls",
             afirmacao: "Afirmação",
         },
     ]
