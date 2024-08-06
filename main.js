@@ -40,20 +40,59 @@ const perguntas = [ //abre uma lista de perguntas
             texto: "Mystic falls",
             afirmacao: "Afirmação",
         },
-    ]
-    }, //fecha objeto de pergunta
-    { //abre objeto de pergunta
-        enunciado: "Pergunta 3",
-        alternativas: [
         {
-            texto: "Bla bla bla bla",
-            afirmacao: "Afirmação"
+            texto: "Whitmore",
+            afirmacao: "Afirmação",
         },
         {
-            texto: "Endauldi agrummgit",
+            texto: "Nova York",
             afirmacao: "Afirmação",
         },
     ]
+    }, //fecha objeto de pergunta
+    { //abre objeto de pergunta
+        enunciado: "Qual ser sobrenatural você escolheria para te defender em uma guerra?",
+        alternativas: [
+        {
+            texto: "Híbrido",
+            afirmacao: "Afirmação"
+        },
+        {
+            texto: "Herege",
+            afirmacao: "Afirmação",
+        },
+        {
+            texto: "Bruxo",
+            afirmacao: "Afirmação",
+        },
+        {
+            texto: "Vampiro",
+            afirmacao: "Afirmação",
+        },
+    ]
+}, //fecha objeto de pergunta
+{ //abre objeto de pergunta
+    enunciado: "Se você acorda depois de 3 anos e vê que sua cidade foi tomada pelos vampiros do Michael, o que você faz primeiro?",
+    alternativas: [
+    {
+        texto: "Iria tirar satifação com ele",
+        afirmacao: "Afirmação"
+    },
+    {
+        texto: "Ligaria para o Damon propondo derrubarem o exército do Michael",
+        afirmacao: "Afirmação",
+    },
+    {
+        texto: "Fugiria para outra cidade sem fazer nada a respeito",
+        afirmacao: "Afirmação",
+    },
+    {
+        texto: "Se juntaria c",
+        afirmacao: "Afirmação",
+    },
+]
+
+
     } //fecha objeto de pergunta
 ]; //fecha lista de pergunta
 //Declaração de variáveis
