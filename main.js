@@ -72,14 +72,14 @@ const perguntas = [ //abre uma lista de perguntas
     ]
 }, //fecha objeto de pergunta
 { //abre objeto de pergunta
-    enunciado: "Se você acorda depois de 3 anos e vê que sua cidade foi tomada pelos vampiros do Michael, o que você faz primeiro?",
+    enunciado: "Se você acorda depois de 3 anos e vê que sua cidade foi tomada, o que você faz primeiro?",
     alternativas: [
     {
-        texto: "Iria tirar satifação com ele",
+        texto: "Iria tirar satisfação e enfrentá-los",
         afirmacao: "Afirmação"
     },
     {
-        texto: "Ligaria para o Damon propondo derrubarem o exército do Michael",
+        texto: "Ligaria para o Damon propondo derrubar os invasores",
         afirmacao: "Afirmação",
     },
     {
@@ -87,7 +87,7 @@ const perguntas = [ //abre uma lista de perguntas
         afirmacao: "Afirmação",
     },
     {
-        texto: "Se juntaria c",
+        texto: "Se juntaria a Eles",
         afirmacao: "Afirmação",
     },
 ]
