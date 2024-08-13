@@ -13,19 +13,19 @@ const perguntas = [ //abre uma lista de perguntas
         alternativas: [
         { //alternativa 1
             texto: "Sair para um bar",
-            afirmacao: "Afirmação"
+            afirmacao: "DAMON SALVATORE"
         },
         { //alternativa 2
-            texto: "Ficar em casa vendo série",
-            afirmacao: "Afirmação",
+            texto: "Ficar em casa lendo um livro",
+            afirmacao: "STEFAN SALVATORE",
         },
         { //alternativa 3
             texto: "Sair para um restaurante, e degustar um bom vinho",
-            afirmacao: "Afirmação",
+            afirmacao: "ELIJAH MIKAELSON",
         },
         { //alternativa 4
             texto: "Ouvindo música e desenhando",
-            afirmacao: "Afirmação",
+            afirmacao: "JEREMY GILBERT",
         },
     ]
     }, //fecha objeto de pergunta
@@ -34,19 +34,19 @@ const perguntas = [ //abre uma lista de perguntas
         alternativas: [
         {
             texto: "Nova orleans",
-            afirmacao: "Afirmação"
+            afirmacao: "ELIJAH MIKAELSON"
         },
         {
             texto: "Mystic falls",
-            afirmacao: "Afirmação",
+            afirmacao: "DAMON SALVATORE",
         },
         {
             texto: "Whitmore",
-            afirmacao: "Afirmação",
+            afirmacao: "STEFAN SALVATORE",
         },
         {
-            texto: "Nova York",
-            afirmacao: "Afirmação",
+            texto: "Denver",
+            afirmacao: "JEREMY GILBERT",
         },
     ]
     }, //fecha objeto de pergunta
@@ -55,19 +55,19 @@ const perguntas = [ //abre uma lista de perguntas
         alternativas: [
         {
             texto: "Híbrido",
-            afirmacao: "Afirmação"
+            afirmacao: "ELIJAH MIKAELSON"
         },
         {
             texto: "Herege",
-            afirmacao: "Afirmação",
+            afirmacao: "STEFAN SALVATORE",
         },
         {
             texto: "Bruxo",
-            afirmacao: "Afirmação",
+            afirmacao: "JEREMY GILBERT",
         },
         {
             texto: "Vampiro",
-            afirmacao: "Afirmação",
+            afirmacao: "DAMON SALVATORE",
         },
     ]
 }, //fecha objeto de pergunta
@@ -76,19 +76,19 @@ const perguntas = [ //abre uma lista de perguntas
     alternativas: [
     {
         texto: "Iria tirar satisfação e enfrentá-los",
-        afirmacao: "Afirmação"
+        afirmacao: "ELIJAH MIKAELSON"
     },
     {
         texto: "Ligaria para o Damon propondo derrubar os invasores",
-        afirmacao: "Afirmação",
+        afirmacao: "DAMON SALVATORE",
     },
     {
         texto: "Fugiria para outra cidade sem fazer nada a respeito",
-        afirmacao: "Afirmação",
+        afirmacao: "STEFAN SLVATORE",
     },
     {
         texto: "Se juntaria a Eles",
-        afirmacao: "Afirmação",
+        afirmacao: "JEREMY GILBERT",
     },
 ]
 
