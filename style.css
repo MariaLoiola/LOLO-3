@@ -5,6 +5,7 @@
     --cor-destaque: #2BDEFD;
     --cor-texto: #D7F9FF;
 }
+
 body{ /*estilização no corpo da página*/
     background-color: var(--cor-fundo); /*cor de fundo*/
     color: var(--cor-texto); /*cor do texto*/
@@ -12,6 +13,9 @@ body{ /*estilização no corpo da página*/
     justify-content: center; /*ajusta os elementos no centro*/
     align-items: center; /*alinha os elementos dentro de um display no cenrto*/
     min-height: 100vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
+background-image: linear-gradient(black, white);
+background-image:url("catfront.png");
+
 }
 .caixa-principal{ /*estilização da classe caixa-principal*/
     background-color: var(--cor-principal);
