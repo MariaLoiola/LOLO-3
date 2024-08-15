@@ -1,9 +1,9 @@
 :root{ /*cria variáveis de cor*/
-    --cor-fundo: #3ccce6a9;
+    --cor-fundo: #810d0d;
     --cor-principal: #6e1111;
-    --cor-secundaria: #3e8f76;
-    --cor-destaque: #a32c1d;
-    --cor-texto: #da1111;
+    --cor-secundaria: #000000;
+    --cor-destaque: #000000;
+    --cor-texto: #850808;
 }
 
 body{ /*estilização no corpo da página*/
@@ -12,9 +12,9 @@ body{ /*estilização no corpo da página*/
     display: flex; /**/
     justify-content: center; /*ajusta os elementos no centro*/
     align-items: center; /*alinha os elementos dentro de um display no cenrto*/
-    min-height: 100vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
+    min-height: 200vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
 background-image: linear-gradient(rgba(189, 38, 12, 0.842), rgb(0, 0, 0));
-background-image:url("TVD.webp");
+background-image:url("TVD.webp");}
 
 .caixa-principal{ /*estilização da classe caixa-principal*/
     background-color: var(--cor-principal);
