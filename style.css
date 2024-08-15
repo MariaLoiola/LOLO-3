@@ -13,7 +13,7 @@ body{ /*estilização no corpo da página*/
     justify-content: center; /*ajusta os elementos no centro*/
     align-items: center; /*alinha os elementos dentro de um display no cenrto*/
     min-height: 100vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
-background-image: linear-gradient(black, white);
+background-image: linear-gradient(rgb(255, 38, 0), rgb(146, 13, 13));
 background-image:url("TVD.webp");
 
 }
