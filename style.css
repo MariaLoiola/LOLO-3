@@ -16,7 +16,6 @@ body{ /*estilização no corpo da página*/
 background-image: linear-gradient(rgba(189, 38, 12, 0.842), rgb(0, 0, 0));
 background-image:url("TVD.webp");
 
-}
 .caixa-principal{ /*estilização da classe caixa-principal*/
     background-color: var(--cor-principal);
     width: 90%; /*largura dos elementos*/
