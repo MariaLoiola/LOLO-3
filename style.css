@@ -14,7 +14,7 @@ body{ /*estilização no corpo da página*/
     align-items: center; /*alinha os elementos dentro de um display no cenrto*/
     min-height: 300vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
 background-image: linear-gradient(rgba(189, 38, 12, 0.842), rgb(0, 0, 0));
-background-image:url("TVD.webp");}
+background-image:url("TVD.jpeg");}
 
 .caixa-principal{ /*estilização da classe caixa-principal*/
     background-color: var(--cor-principal);
