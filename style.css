@@ -20,7 +20,7 @@ background-image:url("TVD.jpeg");}
     background-color: var(--cor-principal);
     width: 80%; /*largura dos elementos*/
     text-align: center; /*alinha o texto no centro*/
-    padding: 20px; /*espaçamento interno de 20 pixels*/
+    padding: 30px; /*espaçamento interno de 20 pixels*/
 }
 h1{
     color: var(--cor-destaque);
