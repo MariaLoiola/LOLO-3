@@ -15,19 +15,6 @@ body{ /*estilização no corpo da página*/
     min-height: 100vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
 background-image: linear-gradient(rgba(189, 38, 12, 0.842), rgb(0, 0, 0));
 background-image:url("TVD.webp");
-.intro {
-    display: block;
-    width: 500vw;
-    height: 100vh;
-    padding: 0;
-    text-align: center;
-    color: white;
-    background: url(TVD.webp) no-repeat bottom center scroll;
-    background-color: black;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
 
 }
 .caixa-principal{ /*estilização da classe caixa-principal*/
