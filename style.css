@@ -4,8 +4,8 @@
     --cor-secundaria: #e68989;
     --cor-destaque: #000000;
     --cor-texto: #f0cfcf;
+    --cor-botao:rgb(0, 0, 182);
 }
-
 body{ /*estilização no corpo da página*/
     background-color: var(--cor-fundo); /*cor de fundo*/
     color: var(--cor-texto); /*cor do texto*/
@@ -27,11 +27,11 @@ h1{
 }
 
 button { /*estilização dos botões*/
-    background-color: var(--cor-secundaria);
+    background-color: var(--cor-botao);
     color: var(--cor-texto);
-    border: none; /*sem borda*/
-    border-radius: 15px; /*arredondamento da borda*/
-    padding: 15px; /*espaçamento interno de 15 pixels*/
+    border: 10px; /*sem borda*/
+    border-radius: 40px; /*arredondamento da borda*/
+    padding: 80px; /*espaçamento interno de 15 pixels*/
     transition: background-color 0.3s; /*transição de 0.3 segundos quando passa o mouse pelo botão e muda a cor do fundo*/
 }
 
