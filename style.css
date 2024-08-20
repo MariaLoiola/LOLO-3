@@ -25,3 +25,18 @@ background-image:url("TVD.jpeg");}
 h1{
     color: var(--cor-destaque);
 }
+
+button { /*estilização dos botões*/
+    background-color: var(--cor-secundaria);
+    color: var(--cor-texto);
+    border: none; /*sem borda*/
+    border-radius: 15px; /*arredondamento da borda*/
+    padding: 15px; /*espaçamento interno de 15 pixels*/
+    transition: background-color 0.3s; /*transição de 0.3 segundos quando passa o mouse pelo botão e muda a cor do fundo*/
+}
+
+button:hover{ /*a pseudo-classe HOVER adiciona interação aos botões, nesse caso, muda a cor do fundo*/
+/*isso nos informa que o botão está pronto para ser clicado*/    
+    background-color: var(--cor-destaque);
+    color: var(--cor-principal);
+}
