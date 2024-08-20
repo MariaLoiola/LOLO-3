@@ -32,7 +32,7 @@ button { /*estilização dos botões*/
     color: var(--cor-texto);
     border: 10px; /*sem borda*/
     border-radius: 40px; /*arredondamento da borda*/
-    padding: 80px; /*espaçamento interno de 15 pixels*/
+    padding: 50px; /*espaçamento interno de 15 pixels*/
     transition: background-color 0.3s; /*transição de 0.3 segundos quando passa o mouse pelo botão e muda a cor do fundo*/
 }
 
