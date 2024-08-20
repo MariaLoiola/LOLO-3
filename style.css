@@ -4,7 +4,8 @@
     --cor-secundaria: #e68989;
     --cor-destaque: #000000;
     --cor-texto: #f0cfcf;
-    --cor-botao:rgb(0, 0, 182);
+    --cor-botao:#0e0e74;
+
 }
 body{ /*estilização no corpo da página*/
     background-color: var(--cor-fundo); /*cor de fundo*/
@@ -37,6 +38,6 @@ button { /*estilização dos botões*/
 
 button:hover{ /*a pseudo-classe HOVER adiciona interação aos botões, nesse caso, muda a cor do fundo*/
 /*isso nos informa que o botão está pronto para ser clicado*/    
-    background-color: var(--cor-destaque);
+    background-color: var(--cor-botao);
     color: var(--cor-principal);
 }
