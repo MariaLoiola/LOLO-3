@@ -30,9 +30,9 @@ h1{
 button { /*estilização dos botões*/
     background-color: var(--cor-botao);
     color: var(--cor-texto);
-    border: 10px; /*sem borda*/
-    border-radius: 40px; /*arredondamento da borda*/
-    padding: 12px; /*espaçamento interno de 15 pixels*/
+    border: 12px; /*sem borda*/
+    border-radius: 50px; /*arredondamento da borda*/
+    padding: 26px; /*espaçamento interno de 15 pixels*/
     transition: background-color 0.3s; /*transição de 0.3 segundos quando passa o mouse pelo botão e muda a cor do fundo*/
 }
 
