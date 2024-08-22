@@ -1,7 +1,7 @@
 :root{ /*cria variáveis de cor*/
-    --cor-fundo: #f09d9d;
+    --cor-fundo: #000000;
     --cor-principal: #6e111199;
-    --cor-secundaria: #e68989;
+    --cor-secundaria: #000000;
     --cor-destaque: #000000;
     --cor-texto: #682d2d;
     --cor-botao:#05b408ea;
