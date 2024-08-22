@@ -9,12 +9,12 @@ const textoResultado = document.querySelector(".texto-resultado"); //constante t
 
 const perguntas = [ //abre uma lista de perguntas
     { //abre objeto de pergunta
-        worldString ="Qual dessas opções você escolheria para uma sexta a noite? ",
-              alternativas: [
-              { //alternativa 1
-                  texto: "Sair para um bar",
-                  afirmacao: "DAMON SALVATORE"
-              },
+        enunciado: worldString= "Qual dessas opções você escolheria para uma sexta a noite? ",
+            alternativas: [
+            { //alternativa 1
+                texto: "Sair para um bar",
+                afirmacao: "DAMON SALVATORE"
+            },
         { //alternativa 2
             texto: "Ficar em casa lendo um livro",
             afirmacao: "STEFAN SALVATORE",
