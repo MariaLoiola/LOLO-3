@@ -15,8 +15,8 @@ body{ /*estilização no corpo da página*/
     align-items: center; /*alinha os elementos dentro de um display no cenrto*/
     min-height: 300vh; /*define o tamanho minimo dos elementos: 150 vw = tamanho da janela de visualização*/
     background-image:url("TVD.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat;
+    background-size: contain;
 }
 .caixa-principal{ /*estilização da classe caixa-principal*/
     background-color: var(--cor-principal);
